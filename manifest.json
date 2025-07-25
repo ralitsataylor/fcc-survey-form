@@ -1,0 +1,15 @@
+{
+  "name": "FCC Survey Form",
+  "short_name": "Survey Form",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#e50914",
+  "icons": [
+    {
+      "src": "img/favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ]
+}
